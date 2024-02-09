@@ -1,2 +1,3 @@
 # Python-projects
-This is my python projects.
+This is my Python project.
+Author - Aditya Verma
